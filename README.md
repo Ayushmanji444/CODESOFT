@@ -1,24 +1,11 @@
- Tic-Tac-Toe with AI (Python + Tkinter)
+#PYTHon AI Projects – All in One
 
-This is a simple Python implementation of the classic Tic-Tac-Toe game — but with a twist: you're up against an unbeatable AI opponent!
-Features
-- Play against an AI powered by the **Minimax algorithm** with **Alpha-Beta Pruning**
-- Select difficulty: `Easy`, `Medium`, or `Hard`
-- GUI interface built using `Tkinter`
-- AI simulates thinking delay for realism
-- Real-time win/tie detection
-- Clean and readable code, great for learning game AI and GUI basics
+This repository contains a collection of 3 beginner-to-intermediate level Python projects in Artificial Intelligence and GUI development. Each project explores a different domain of AI:
 
-Technologies Used
-- Python 3.x
-- Tkinter (standard GUI library)
-- Minimax algorithm (with pruning)
+- Tic Tac Toe Game with Unbeatable AI
+-  Rule-Based Chatbot with GUI
+- Image Captioning using Transformers
 
-Screenshot
-*(Insert game screenshot here)*
+These projects are designed to help you understand **game theory**, **natural language processing**, **computer vision**, and **Tkinter-based GUI programming**.
 
-How to Run
-1. Clone the repo:
-   ```bash
-   git clone https://github.com/<your-username>/tic-tac-toe-ai.git
-   cd tic-tac-toe-ai
+---
